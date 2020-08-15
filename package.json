@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "Curso basico de Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node http.js",
+    "os": "node os.js",
+    "fs": "node fs.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "node"
+  ],
+  "author": "Marcos DV",
+  "license": "ISC"
+}
