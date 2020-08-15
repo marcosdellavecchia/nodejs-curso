@@ -1,6 +1,4 @@
 # nodejs-curso
- Curso básico de Node.js
- 
  1) Conceptos básicos de Node
  
  2) Manejo de módulos:
