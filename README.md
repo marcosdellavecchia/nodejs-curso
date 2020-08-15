@@ -1,5 +1,5 @@
 # nodejs-curso
- Curso básico de Node.j
+ Curso básico de Node.js
  
  1) Conceptos básicos de Node
  
